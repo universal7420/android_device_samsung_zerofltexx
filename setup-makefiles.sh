@@ -18,7 +18,7 @@
 set -e
 
 export DEVICE=zerofltexx
-export DEVICE_COMMON=zero-common
+export DEVICE_COMMON=universal7420-common
 export VENDOR=samsung
 
 ./../$DEVICE_COMMON/setup-makefiles.sh $@
