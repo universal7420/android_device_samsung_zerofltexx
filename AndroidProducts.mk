@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_zerofltexx.mk
+    $(LOCAL_DIR)/havoc_zerofltexx.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_zerofltexx-user \
-    lineage_zerofltexx-userdebug \
-    lineage_zerofltexx-eng
+    havoc_zerofltexx-user \
+    havoc_zerofltexx-userdebug \
+    havoc_zerofltexx-eng
