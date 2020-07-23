@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_zerofltexx.mk
+    $(LOCAL_DIR)/bliss_zerofltexx.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_zerofltexx-user \
-    lineage_zerofltexx-userdebug \
-    lineage_zerofltexx-eng
+    bliss_zerofltexx-user \
+    bliss_zerofltexx-userdebug \
+    bliss_zerofltexx-eng
