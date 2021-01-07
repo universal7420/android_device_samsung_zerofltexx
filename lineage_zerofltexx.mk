@@ -42,6 +42,6 @@ PRODUCT_MODEL := SM-G920F
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=zerofltexx \
     TARGET_DEVICE=zeroflte \
-    PRIVATE_BUILD_DESC="zerofltexx-user 7.0 NRD90M G920FXXU6ESG2 release-keys"
+    PRIVATE_BUILD_DESC="zerofltexx-user 7.0 NRD90M G920FXXS5EQL1 release-keys"
 
-BUILD_FINGERPRINT := "samsung/zerofltexx/zeroflte:7.0/NRD90M/G920FXXU6ESG2:user/release-keys"
+BUILD_FINGERPRINT := "samsung/zerofltexx/zeroflte:7.0/NRD90M/G920FXXS5EQL1:user/release-keys"
